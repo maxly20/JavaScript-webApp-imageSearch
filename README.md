@@ -1,4 +1,4 @@
-# webapp-weather-app
+# Image Search App
 
 A web app built with Unsplash API, used to search for photos using keywords.
 
